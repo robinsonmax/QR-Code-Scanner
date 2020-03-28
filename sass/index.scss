@@ -1,0 +1,11 @@
+#camera{
+    video{
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    img, canvas{
+        display: none;
+    }
+}

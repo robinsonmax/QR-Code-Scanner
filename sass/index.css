@@ -1,0 +1,12 @@
+#camera video {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#camera img, #camera canvas {
+  display: none;
+}
+/*# sourceMappingURL=index.css.map */
